@@ -5,4 +5,5 @@ export const CATEGORIES: Category[] = [
   { id: 2, name: 'Watch' },
   { id: 3, name: 'Headphones' },
   { id: 4, name: 'Home appliances' },
+  { id: 5, name: 'Micro' },
 ];

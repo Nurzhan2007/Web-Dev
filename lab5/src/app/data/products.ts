@@ -330,6 +330,19 @@ export const PRODUCTS: Product[] = [
 
     likes: 0,
     categoryId: 2
+  },
+  {
+    id: 20,
+    name: 'Смарт-часы Xiaomi Redmi Watch 5 53 мм черный',
+    description: 'Представляем умные часы Xiaomi Redmi Watch 5 — ваш идеальный спутник для активного образа жизни! Эти часы объединяют стильный дизайн, высокую функциональность и долговечность, что делает их отличным выбором для повседневного использования.',
+    price: 50316,
+    rating: 4.8,
+    image: 'products/201.jpg',
+    images: ['products/201.jpg', 'products/202.jpg', 'products/203.jpg'],
+    link: 'https://kaspi.kz/shop/p/xiaomi-redmi-watch-5-53-mm-chernyi-133031438/?c=750000000',
+
+    likes: 0,
+    categoryId: 5
   }
 
 
